@@ -5,7 +5,7 @@ app = express();
 app.set('port', process.env.PORT || 3001);
 
 app.get('/', function(req, res){
-  res.send('<h3>Tomorrow Tree</h3>');
+  res.send('<h3>The Tomorrow Tree</h3>');
 });
 
 //server
