@@ -1,0 +1,11 @@
+log
+tmp
+test
+.DS_Store
+node_modules
+scripts
+.git
+.gitignore
+npm-debug.log
+express.log
+tools
